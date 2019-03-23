@@ -4,3 +4,5 @@
 <p>This is some other text.</p>
 
 <script id="asciicast-KgR6xlUfyCbr8GCV7C1ee29oK" src="https://asciinema.org/a/KgR6xlUfyCbr8GCV7C1ee29oK.js" async></script>
+
+<p>This is another test</p>
